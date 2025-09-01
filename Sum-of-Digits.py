@@ -6,3 +6,5 @@ while num >0 :
     num = num//10
 # print(f"Sum of digits :{sum}")
 print("Sum of digits :",(sum))
+
+# // used for intiger division and / used for normal division or float
